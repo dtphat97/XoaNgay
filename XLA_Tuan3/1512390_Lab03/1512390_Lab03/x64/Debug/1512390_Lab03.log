@@ -1,0 +1,4 @@
+﻿  EdgeDetector.cpp
+e:\monhoc\xu li anh so\th\tuan3\1512390_lab03\1512390_lab03\edgedetector.cpp(87): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\monhoc\xu li anh so\th\tuan3\1512390_lab03\1512390_lab03\edgedetector.cpp(164): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  1512390_Lab03.vcxproj -> E:\MonHoc\Xu li anh so\TH\Tuan3\1512390_Lab03\x64\Debug\1512390_Lab03.exe
